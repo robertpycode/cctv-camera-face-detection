@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Generated video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.mjpg
+
+# Logs
+*.log
